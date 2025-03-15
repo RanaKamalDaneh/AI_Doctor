@@ -1,0 +1,17 @@
+,Disease,Symptom_1,Symptom_2,Symptom_3,Symptom_4
+0,Brain Cancer,persistent headaches,unexplained nausea ,difficulty with balance ,difficulty concentrating
+1,Brain Cancer,unexplained vomiting,memory loss,seizures,personality or behavior changes
+2,Brain Cancer,difficulty with balance ,difficulty concentrating,weakness on one side of the body ,numbness on one side of the body
+3,Brain Cancer,persistent headaches,difficulty concentrating,memory loss,seizures
+4,Breast Cancer,painless lump in the breast,changes in the size of the breast,unusual nipple discharge,nipple pain
+5,Breast Cancer,underarm,changes the shape of the breast,dimpling skin,pain in the breast
+6,Breast Cancer,painless lump in the breast,redness skin,pain in the breast,swelling
+7,Breast Cancer,unusual nipple discharge,nipple pain,inward turning of the nipple,swelling
+8,Kidney Cancer,hematuria,pain in the back,anemia,swelling in the ankles
+9,Kidney Cancer,pain in the side,lump in the side,unexplained weight loss,persistent fatigue
+10,Kidney Cancer,hematuria,lump in the abdmen,unexplained weight loss,loss of appetite
+11,Kidney Cancer,unexplained fever,anemia,swelling in the ankles,swelling in legs
+12,Skin Cancer,appearance of a new mole,irregular borders of the mole,increase in the size of the mole,pain in the mole
+13,Skin Cancer,change in an existing mole,asymmetrical mole,change in color of the mole,Itching in the mole
+14,Skin Cancer,Itching in the mole,bleeding in the mole,pain in the mole,peeling of the skin on the mole
+15,Skin Cancer,appearance of a new mole,change in an existing mole,asymmetrical mole,irregular borders of the mole
